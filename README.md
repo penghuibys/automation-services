@@ -25,7 +25,7 @@ A powerful browser automation service using Playwright, integrated with OpenAI A
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/automation-services.git
+git clone https://github.com/penghuibys/automation-services.git
 cd automation-services
 ```
 
