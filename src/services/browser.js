@@ -340,3 +340,4 @@ class BrowserService {
 }
 
 export default new BrowserService();
+
